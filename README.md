@@ -86,8 +86,8 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="images/VoidFM_NowPlaying.png">
-        <img src="images/VoidFM_NowPlaying.png" alt="VoidFM Now Playing" width="100%">
+      <a href="images/VoidFM_NowPlayingLyrics.png">
+        <img src="images/VoidFM_NowPlayingLyrics.png" alt="VoidFM Now Playing" width="100%">
       </a>
       <br>
       <strong>Now Playing</strong>
@@ -126,8 +126,8 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <a href="images/VoidFM_Loading.png">
-        <img src="images/VoidFM_Loading.png" alt="VoidFM Loading Screen" width="60%">
+      <a href="images/VoidFM_Loading2.png">
+        <img src="images/VoidFM_Loading2.png" alt="VoidFM Loading Screen" width="60%">
       </a>
       <br>
       <strong>Loading Screen</strong>
