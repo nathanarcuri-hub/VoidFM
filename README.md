@@ -323,11 +323,13 @@ Expect rough edges, active changes, and ongoing improvements. Some features, esp
 ## Known Issues
 
 - Some tracks may take longer than expected to load.
+- Clicking `Save` on many screens can take a while, with no visible loading or pending indicator. A proper save indicator is planned.
 - Soft skip may occasionally fail to trigger.
 - Chords and lyrics may not always align perfectly, which can cause the auto-scrolling chord sheet to skip lines.
 - Automatic chord search is currently unreliable. For best results, disable auto chord search and add chords manually for each track.
 - Lesser-known songs may not have synced karaoke-style lyric data available online. When synced lyric data is unavailable, auto-scrolling lyrics will not work.
 - Auto-scrolling chords depend on synced lyric data. If a track does not have synced lyric data, auto-scrolling chords will not work for that track.
+- If the lyrics pop-out is open and you skip to a track that did not have lyrics loaded when the window opened, it may continue showing “no lyrics” even after lyrics have been scanned. Close and reopen the pop-out window to refresh it.
 
 ---
 
