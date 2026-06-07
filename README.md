@@ -331,8 +331,16 @@ Expect rough edges, active changes, and ongoing improvements. Some features, esp
 - Auto-scrolling chords depend on synced lyric data. If a track does not have synced lyric data, auto-scrolling chords will not work for that track.
 - If the lyrics pop-out is open and you skip to a track that did not have lyrics loaded when the window opened, it may continue showing “no lyrics” even after lyrics have been scanned. Close and reopen the pop-out window to refresh it.
 
----
+
 
 ## Disclaimer
 
 VoidFM is an independent project and is not affiliated with, endorsed by, or sponsored by Plex.
+
+---
+
+## Support
+
+If you like this project, you can support me here:
+
+[Buy me a coffee](https://buymeacoffee.com/nathanarcuri)
